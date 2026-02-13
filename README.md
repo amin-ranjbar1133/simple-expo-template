@@ -1,3 +1,4 @@
+<img src="./assets/file_00000000fd90720a9c49683a3ba5ddf6.png" align="center">
 <h1 align="center">🚀 Expo Starter Template</h1>
 
 > A clean, modern, and fully prepared **Expo development starter** for building mobile applications faster.
