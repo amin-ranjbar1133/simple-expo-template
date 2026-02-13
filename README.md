@@ -1,4 +1,4 @@
-<center># 🚀 Expo Starter Template</center>
+<h1 align="center">🚀 Expo Starter Template</h1>
 
 > A clean, modern, and fully prepared **Expo development starter** for building mobile applications faster.
 
