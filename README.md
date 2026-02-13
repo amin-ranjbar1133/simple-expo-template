@@ -69,7 +69,7 @@ This is only a **foundation/template for developers**.
 
 ```bash
 git clone https://github.com/your-username/expo-starter.git
-cd expo-starter
+cd simple-expo-template
 npm install
 ```
 
