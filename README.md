@@ -1,5 +1,8 @@
 <img src="./assets/file_00000000fd90720a9c49683a3ba5ddf6.png" align="center">
 <h1 align="center">🚀 Expo Starter Template</h1>
+<div align="center">
+  <img src="https://img.shields.io/github/stars/amin-ranjbar1133/simple-expo-template?style=for-the-badge" alt="Stars">
+</div>
 
 > A clean, modern, and fully prepared **Expo development starter** for building mobile applications faster.
 
