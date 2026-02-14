@@ -72,7 +72,7 @@ This is only a **foundation/template for developers**.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/expo-starter.git
+git clone https://github.com/amin-ranjbar1133/simple-expo-template
 cd simple-expo-template
 npm install
 ```
